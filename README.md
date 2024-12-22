@@ -1,4 +1,5 @@
 # Course Registration System
+![main_pic_new](https://github.com/user-attachments/assets/eba71d75-badb-4c31-8bd9-328656432943)
 
 :star:**Please star the repository if you happen to like the project**
 
@@ -8,8 +9,8 @@
 
 - [Tech Stack](#tech-stack)
 - [Salient Features](#salient-features)
+- [Visuals and Interface](visuals-and-interface)
 - [How to Run the Application](#how-to-run-the-application)
-- [Designs](#designs)
 - [License](#license)
 - [Creators](#creators)
   
@@ -27,6 +28,17 @@
 - Students can register for courses, view grades, submit complaints, and provide feedback.
 - Teaching Assistants (TAs) can manage student grades and view courses.
 - Exception handling for course full and drop deadline passed scenarios.
+
+## Visuals and Interface
+
+Student Menu
+![student_menu](https://github.com/user-attachments/assets/c17e0d7d-4330-4ebd-a4b3-29535840610d)
+
+Course Schedule
+![registration](https://github.com/user-attachments/assets/050e2dfb-fbcf-4d0e-9b42-0d7e598f2c7c)
+
+Admin Complaint-Resolution
+![image](https://github.com/user-attachments/assets/1994a5b0-e432-4707-9ca5-526302973bef)
 
 ## How to Run the Application
 
