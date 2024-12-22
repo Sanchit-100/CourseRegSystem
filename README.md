@@ -31,13 +31,13 @@
 
 ## Visuals and Interface
 
-Student Menu
+### Student Menu
 ![student_menu](https://github.com/user-attachments/assets/c17e0d7d-4330-4ebd-a4b3-29535840610d)
 
-Course Schedule
+### Course Schedule
 ![registration](https://github.com/user-attachments/assets/050e2dfb-fbcf-4d0e-9b42-0d7e598f2c7c)
 
-Admin Complaint-Resolution
+### Admin Complaint-Resolution
 ![image](https://github.com/user-attachments/assets/1994a5b0-e432-4707-9ca5-526302973bef)
 
 ## How to Run the Application
